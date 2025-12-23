@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "君の好きなうた EPIPHANY at Tokyo Dome 2025.06.15 (Live Version)",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T02:10:38.222571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君の好きなうた (Acoustic Version)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/01_君の好きなうた_(Acoustic_Version)_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君の好きなうた (KING'S PARADE 2017 Saitama Super Arena)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_君の好きなうた_(KING'S_PARADE_2017_Saitama_Super_Arena)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君の好きなうた（ALL TIME BEST ver.）",
+      "artist": "Uverworld",
+      "has_synced": true,
+      "path": "select/03_君の好きなうた(ALL_TIME_BEST_ver.)_Uverworld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君の好きなうた(QUEEN'S PARTY at Nippon Budokan 2018.12.21)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/04_君の好きなうた(QUEEN'S_PARTY_at_Nippon_Budokan_2018.12.21)_UVERworld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の好きなうた",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_君の好きなうた_UVERworld.txt"
+    }
+  ]
+}
